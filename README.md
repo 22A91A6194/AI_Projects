@@ -53,5 +53,4 @@ Steps :
    # 4.Converting Color image into Grayscale Image
    # 5.Obtaining Face coordinates by passing algorithm
    # 6.Drawing Rectangle on the Face Coordinates
-   
    # 7.Display the output Fra
